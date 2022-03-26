@@ -1,0 +1,110 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.header {
+    height: 15%;
+
+}
+
+.main{
+    height: 60%;
+}
+
+.footer{
+    height: 25%;
+}
+.div-1 {
+    height: 100%;
+    width: 100%;
+}
+
+.nav-bar {
+    float: right;
+    width: 70%;
+    padding: 20px;
+}
+
+.logo {
+    display: inline;
+    width: 30%;
+}
+
+.nav-bar-item {
+    display: inline;  
+    padding: 4%;
+    font-family: brandon-grotesque; 
+    font-size: 16px;
+    
+}
+
+
+.nav-bar-item a{
+    text-decoration: none; 
+    color: black;
+
+
+}
+
+.sadness {
+    width: 33%;
+    height: 418px;
+    display: inline-block;
+}
+
+.dont-cry-sign{
+    height: 50%;
+    display: block;
+    
+}
+
+.error-404{
+    height: 50%;
+    display: block;
+    
+}
+
+.sadness-img {
+    height: 418px;
+}
+
+.main-text{
+    display: inline-block;
+    width: 66%;
+    height: 60%;
+    position: absolute;
+
+}
+
+.dont-cry-sign-p {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+}
+
+.error-404-p {
+    text-align: center;
+
+}
+.social-media {
+    text-align: center;
+}
+.social-media-icon {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+}
+
+.footer-links {
+    text-align: center;
+}
+
+.footer-links a {
+    text-decoration: underline;
+    color:black;
+    font-size: 23px;
+    
+    
+}
