@@ -1,5 +1,5 @@
 # index.html 
 all html data
 
-#style.css
+# style.css
 styles
